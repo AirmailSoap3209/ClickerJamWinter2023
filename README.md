@@ -3,7 +3,7 @@ This is my entry for the Clicker Jam WInter 2023.
 
 Welcome to our game jam project!
 
-This game was created during a One week-day game jam with a team of three developers. The theme of the game jam was "," and we decided to create a __ based clicker type game.
+This game was created during a One week-day game jam with a team of three developers. The theme of the game jam was "interdimensional" and we decided to create a  Incermental idle research based clicker type game.
 
 ___ game descrirption ___
 
